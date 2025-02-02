@@ -10,7 +10,7 @@
 7. [How to Use](#how-to-use)
 
 ## Project Overview
-This project is a **Personal Finance Tracker** built using **Power BI**. It includes an **Excel database** for managing income, expenses, and savings, along with a **Power BI dashboard** to visualize financial insights.
+This project is a **Personal Finance Tracker** built using **Power BI**. It includes an **Excel database** for managing income, expenses, and savings, along with a **Power BI dashboard** to visualize financial insights of Jan 2022 to Jan 2025.
 
 [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTUxZmRjMjYtMmM5NC00YzM3LWE2MjctNDgzYjU1MjkyNjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
